@@ -10,4 +10,4 @@ If you have `elm` installed, you can clone the project, navigate to the project 
 elm reactor
 ```
 
-Afterwards you can navigate to `localhost:8000` and from the dashbord choose the file to `.elm` file to compile and run in your browser.
+Afterwards you can navigate to `localhost:8000` and from the dashbord choose the `.elm` file you want to compile and run in your browser.
