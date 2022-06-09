@@ -1,6 +1,5 @@
-module Die exposing (main)
+module DieRoller exposing (main)
 
-import Array exposing (get)
 import Browser
 import Html exposing (..)
 import Html.Events exposing (..)
